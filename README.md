@@ -1,5 +1,11 @@
 # Exploring-and-Analyzing-Data-in-Oracle-Database
 
+### The series of SQL Analysis
+- [Second series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Second%20project#in-this-second-project)
+- coming soon ...
+
+<br>
+
 **What is this project ?**
 This project focuses on data analysis and software familiarization using SQL on Oracle Database 21c.
 
@@ -8,7 +14,6 @@ This project is designed to develop skills in data management and data analysis 
 
 **What are the gains from doing this project ?**
 Gain a strong knowledge and understanding of data management and data analysis using SQL on Oracle Database 21c. The knowledge gained can also be applied to problem solving and business decision making. It also develops skills in using SQL Developer and connecting to popular Oracle databases in business and industry.
-
 
 Below are the key steps involved in the project:
 
