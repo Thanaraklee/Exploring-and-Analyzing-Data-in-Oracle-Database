@@ -12,9 +12,9 @@ Gain a strong knowledge and understanding of data management and data analysis u
 
 Below are the key steps involved in the project:
 
-## Download and Install
-- Download Oracle Database 21c from the official Oracle website for SQL data analysis.
-- Download SQL Developer for working with Oracle databases.
+## Download and Install ( Choose according to the OS used )
+- [Download](https://www.oracle.com/database/technologies/xe-downloads.html) Oracle Database 21c from the official Oracle website for SQL data analysis.
+- [Download](https://www.oracle.com/database/sqldeveloper/technologies/download/) SQL Developer for working with Oracle databases.
 
 ## Setup
 - Set up an Oracle Database username and password.
