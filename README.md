@@ -3,6 +3,7 @@
 ### The series of SQL Analysis
 - [Second series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Second%20series#in-this-second-series)
 - [Third series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Third%20series#in-this-third-series)
+- coming soon ..
 
 <br>
 
