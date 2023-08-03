@@ -7,7 +7,7 @@
 - [Five series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Five%20series#in-this-five-series)
 - [Six series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Six%20series#in-this-six-series)
 - [Final series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Final%20series#in-this-final-series)
-- 
+
 <br>
 
 **What is this project ?**
