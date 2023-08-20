@@ -1,5 +1,9 @@
 # Exploring-and-Analyzing-Data-in-Oracle-Database
 
+<p align="center">
+  <img src="https://www.fujitsu.com/lu/Images/oracle-db580x224_tcm67-40873.jpg" alt="OracleDB" />
+</p>
+
 ### The series of SQL Analysis
 - [Second series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Second%20series#in-this-second-series)
 - [Third series](https://github.com/Thanaraklee/Exploring-and-Analyzing-Data-in-Oracle-Database/tree/main/Third%20series#in-this-third-series)
